@@ -6,5 +6,5 @@
 ## Description
 This is the ReactJS Disney Plus Clone built with Redux and Firebase.
 
-## Build it today!
+
 
