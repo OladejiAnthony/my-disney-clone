@@ -4,7 +4,7 @@
 
 
 ## Description
-This is the ReactJS Disney Plus Clone built with Redux and Firebase.
+This is a ReactJS Disney Plus Clone built with Redux, Styled Component, Material Ui and Firebase.
 
 
 
